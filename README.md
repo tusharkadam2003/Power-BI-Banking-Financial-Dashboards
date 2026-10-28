@@ -179,60 +179,6 @@ financial organizations by helping them:
 
 ------------------------------------------------------------------------
 
-## 📸 Dashboard Previews
-
-Add your screenshots to a `Screenshots` folder in the repository and use
-filenames that match the references below.
-
-### 1. IVR Operations Dashboard
-
-![IVR Operations Dashboard](Screenshots/IVR-Operations.jpeg)
-
-### 2. NBFC Credit & Risk Dashboard
-
-![NBFC Credit and Risk Dashboard](Screenshots/NBFC-Credit-Risk.jpeg)
-
-### 3. Loan Operations Portfolio
-
-![Loan Operations Portfolio](Screenshots/Loan-Operations-Portfolio.jpeg)
-
-### 4. Collection Department Dashboard
-
-![Collection Department
-Dashboard](Screenshots/Collection-Department.jpeg)
-
-### 5. Legal Department Dashboard
-
-![Legal Department Dashboard](Screenshots/Legal-Department.jpeg)
-
-------------------------------------------------------------------------
-
-## 📁 Suggested Repository Structure
-
-``` text
-Power-BI-Banking-Financial-Dashboards/
-├── README.md
-├── Dashboards/
-│   ├── IVR-Operations-Dashboard.pbix
-│   ├── NBFC-Credit-Risk-Dashboard.pbix
-│   ├── Loan-Operations-Portfolio.pbix
-│   ├── Collection-Department-Dashboard.pbix
-│   └── Legal-Department-Dashboard.pbix
-├── Screenshots/
-│   ├── IVR-Operations.jpeg
-│   ├── NBFC-Credit-Risk.jpeg
-│   ├── Loan-Operations-Portfolio.jpeg
-│   ├── Collection-Department.jpeg
-│   └── Legal-Department.jpeg
-└── Datasets/
-    └── Add-your-dataset-files-here
-```
-
-*This is a suggested structure. Update the filenames and folders to
-match the files you actually upload.*
-
-------------------------------------------------------------------------
-
 ## 👨‍💻 Author
 
 **Tushar Kadam**\
@@ -246,6 +192,3 @@ Enthusiast
 If you find these dashboards useful, consider giving this repository a
 star on GitHub. Feedback and suggestions are welcome.
 
-> **Note:** Before publishing, verify that the dashboard figures and
-> account information are fictional or anonymized. Do not upload
-> confidential financial, customer, or company data.
